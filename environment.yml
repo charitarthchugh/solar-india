@@ -75,6 +75,7 @@ dependencies:
   - pytz==2020.1
   - pyyaml==5.3.1
   - pyzmq==19.0.2
+  - opendatasets==0.1.6
   - qtconsole==4.7.5
   - qtpy==1.9.0
   - requests==2.24.0
