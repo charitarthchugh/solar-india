@@ -1,10 +1,11 @@
 # Solar India
 
-An analysis of two solar plants in India, based on the awesome Solar Power Generation   
+An analysis of two solar plants in India, based on the awesome [Solar Power Generation Dataset](https://www.kaggle.com/anikannal/solar-power-generation-data).
 
-| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/charitarthchugh/solar-india/HEAD) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/charitarthchugh/solar-india/blob/main/solar-india.ipynb) |[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)|
+| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/charitarthchugh/solar-india/HEAD) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/charitarthchugh/solar-india/blob/main/solar-india.ipynb) |[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/charitarth/solar-india)  |
 | --- | --- | --- |
 
+---
 ## Dataset info
 
 Here is the dataset column information, split into two sections- Generation and Weather.  
